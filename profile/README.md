@@ -26,7 +26,7 @@ makes sense and private where it is ours.
 - **[textkit](https://github.com/Nimos-Websites/textkit)** — deterministic text utilities over HTTP
 - **[nimos-ios](https://github.com/Nimos-Websites/nimos-ios)** · **[ios-kit](https://github.com/Nimos-Websites/ios-kit)** — iOS
 - **[paid-mcp-metering](https://github.com/Nimos-Websites/paid-mcp-metering)** · **[skyfire-agent-payments-connector](https://github.com/Nimos-Websites/skyfire-agent-payments-connector)** — metered MCP, agent payments
-- **[centsplit](https://github.com/Nimos-Websites/centsplit)** · **[vet-mcp](https://github.com/Nimos-Websites/vet-mcp)** · **[figma-plugins-suite](https://github.com/Nimos-Websites/figma-plugins-suite)** · **[figma-quick-padding-spacing](https://github.com/Nimos-Websites/figma-quick-padding-spacing)**
+- **[centsplit](https://github.com/Nimos-Websites/centsplit)** · **[vet-mcp](https://github.com/Nimos-Websites/vet-mcp)** · **[figma-quick-padding-spacing](https://github.com/Nimos-Websites/figma-quick-padding-spacing)**
 
 ---
 
